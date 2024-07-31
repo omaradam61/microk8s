@@ -5,3 +5,5 @@
 ## Step 2: Dockerize the Application
 
 ## Step 3: Write Kubernetes Manifests files
+
+## Step 4: Expose The Services
